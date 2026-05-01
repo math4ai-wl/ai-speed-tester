@@ -2,7 +2,9 @@
 
 一个轻量的本地 Web 工具，用来测试 OpenAI 兼容 API 中转站的流式响应速度，并辅助判断中转站节点的大致区域。
 
-适合用来比较不同中转站、不同模型、不同网络/梯子节点下的实际体感速度。
+适合用来比较不同中转站、不同模型、不同网络/梯子节点下的实际体感速度。、
+
+<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/b24ed6f9-b5b8-46e8-bbea-46ae7b0b8416" />
 
 ## Features
 
